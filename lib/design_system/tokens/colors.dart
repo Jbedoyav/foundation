@@ -26,4 +26,7 @@ class BaseColors {
   static const scale04 = Color(0xFF808285);
   static const scale05 = Color(0xFF454648);
   static const scale06 = Color(0xFF292929);
+
+  static const spendColor = Color(0xFF0000);
+  static const incomeColor = Color(0x008F39);
 }
